@@ -1,3 +1,4 @@
-# Doctest
+# doctest sample code
 
-** TODO: Add description **
+A sample code about doctest on Elixir.
+
